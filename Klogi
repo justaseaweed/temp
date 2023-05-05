@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T05:29:24.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="i9M7jHgll_9zk9UiLyi6" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T11:38:52.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eJPCMls6GGiOP7NhtAat" version="21.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="683" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -31,11 +31,8 @@
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-8" value="นำฝากพัสดุ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WMmeg5C1Q9EYwm4z4H0z-9" value="กรอกรายละเอียด&lt;br&gt;ขนาด และ น้ำหนัก" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WMmeg5C1Q9EYwm4z4H0z-9" value="กรอกรายละเอียด&lt;br&gt;ผู้รับ ขนาด และ น้ำหนัก" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="639" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WMmeg5C1Q9EYwm4z4H0z-11" value="App or Web" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-12" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,31 +50,37 @@
           <mxGeometry x="920" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-17" value="ชำระเงิน&lt;br&gt;ด้วยราคา Retailer" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="960" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-19" value="ได้รับ Tracking No" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-20" value="ปริ้นและแปะ&amp;nbsp; &lt;br&gt;ใบจ่าหน้า" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1280" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-21" value="Post-man มารับพัสดุ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1439" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1599" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-23" value="Scan &lt;br&gt;พัสดุ" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1459" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="1619" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-24" value="รับพัสดุ และจบ Flow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1600" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMmeg5C1Q9EYwm4z4H0z-25" value="Retailer วัดขนาดและ&lt;br&gt;ชั่งน้ำหนัก" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="479" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4p9VNpYW7ec8doysHYR7-0" value="จ่ายผ่านบัญชีกลาง&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;หรือ ตามสาขา ปณ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="960" y="320" width="120" height="120" as="geometry" />
+          <mxGeometry x="1120" y="320" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4p9VNpYW7ec8doysHYR7-1" value="ได้รับใบเสร็จ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4p9VNpYW7ec8doysHYR7-2" value="App or Web" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4p9VNpYW7ec8doysHYR7-3" value="ฝากอีกหรือไม่" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
